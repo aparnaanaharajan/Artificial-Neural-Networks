@@ -1,1 +1,0 @@
-Hi, this is the test file for working with Git Extension!
